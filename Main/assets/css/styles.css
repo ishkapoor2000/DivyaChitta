@@ -1,16 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 :root {
     --header-height: 3rem;
-    /*===== Colors =====*/
     --first-color: #485461;
     --first-color-dark: #28313b;
     --first-color-darken: #002233;
     --white-color: #FCF8F8;
-    /*===== Font and typography =====*/
     --body-font: 'Poppins', sans-serif;
     --big-font-size: 2.5rem;
     --normal-font-size: .938rem;
-    /*===== z index =====*/
     --z-fixed: 100;
 }
 
@@ -33,6 +30,7 @@ body {
     font-family: var(--body-font);
     font-size: var(--normal-font-size);
     font-weight: 500;
+	user-select: none;
 }
 
 h1,
@@ -114,9 +112,9 @@ img {
     color: var(--white-color);
 }
 
-.nav_link:hover {
+/* .nav_link:hover {
     color: var(--first-color-dark);
-}
+} */
 
 .nav_toggle {
     font-size: 1.5rem;
