@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- =====BOX ICONS===== -->
+    <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+
+    <!-- ===== CSS ===== -->
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/loader.css">
+
+    <title>VR</title>
+</head>
+
+<body onload="end_loader();">
+    <!-- Loader -->
+    <div id="wrapper">
+        <div class="progressbar-wrapper">
+            <div class="progressbar">
+                <div class="side front">
+                    <div class="bar"></div>
+                </div>
+                <div class="side back">
+                    <div class="bar"></div>
+                </div>
+                <div class="side top">
+                    <div class="bar"></div>
+                </div>
+                <div class="side bottom">
+                    <div class="bar"></div>
+                </div>
+                <div class="side left"></div>
+            </div>
+        </div>
+    </div>
+
+    <header class="l-header">
+        <nav class="nav bd-grid">
+            <div>
+                <a href="#" class="nav_logo">DIVYA CHITTA</a>
+            </div>
+
+            <div class="nav_toggle" id="nav-toggle">
+                <i class='bx bx-menu'></i>
+            </div>
+
+            <div class="nav_menu" id="nav-menu">
+                <div class="nav_close" id="nav-close">
+                    <i class='bx bx-x'></i>
+                </div>
+
+                <ul class="nav_list">
+                    <li class="nav_item"><a href="#home" class="nav_link active">VR</a></li>
+                    <li class="nav_item"><a href="#" target="_blank" rel="noopener" class="nav_link">Start Session</a></li>
+                    <li class="nav_item"><a href="https://share.streamlit.io/kuwarkapur/webapp/main/webapp.py" class="nav_link">Recommended Music</a></li>
+                    <li class="nav_item"><a href="#contact" class="nav_link">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main class="l-main">
+        <!--===== HOME =====-->
+        <section class="home" id="home">
+            <div class="home_container bd-grid">
+                <div class="home_img">
+                    <img style="left: 57%;" src="assets/img/1.png" data-speed="-2" class="move">
+                    <img style="top: 60%;" src="assets/img/2.png" data-speed="8" class="move">
+                    <img src="assets/img/3.png" data-speed="2" class="move">
+                </div>
+
+                <div class="home_data">
+                    <h1 class="home_title">Coffee<br> Drink 3D</h1>
+                    <p class="home_description">Let's help open new realms for meditation.<br>The best VR experience ever.</p>
+                    <a href="#" class="home_button">Get Started</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+
+    <script defer src="assets/js/main.js"></script>
+</body>
+
+</html>
