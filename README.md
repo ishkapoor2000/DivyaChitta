@@ -28,7 +28,7 @@ This is a VR Mediataion platform for those in search of finding peace with life 
   6. Use **Recommended Music** to navigate to the [Music Recommendation System](https://share.streamlit.io/kuwarkapur/webapp/main/webapp.py).
   7. Use **Music Playlist App** to navigate to the [Music Playlists](https://music-app.ishkapoor.repl.co/).
   8. Use **GGSC Stress Quiz** to navigate to the [GGSC Anxiety & Stress Quiz](https://mental-health-iframe.ishkapoor.repl.co/) (Greater Good Science Center).
-  9. Use **Contact** to navigate to the Ish Kapoor's [LinkedIn](https://music-app.ishkapoor.repl.co/)profile.
+  9. Use **Contact** to navigate to the Ish Kapoor's [LinkedIn](https://music-app.ishkapoor.repl.co/) profile.
 * Desktop Web
   1. Open the web application in your browser (latest Chrome versions recommended).
   2. Make sure to have WebXR extension in your device.
@@ -37,7 +37,7 @@ This is a VR Mediataion platform for those in search of finding peace with life 
   5. Use **Recommended Music** to navigate to the [Music Recommendation System](https://share.streamlit.io/kuwarkapur/webapp/main/webapp.py).
   6. Use **Music Playlist App** to navigate to the [Music Playlists](https://music-app.ishkapoor.repl.co/).
   7. Use **GGSC Stress Quiz** to navigate to the [GGSC Anxiety & Stress Quiz](https://mental-health-iframe.ishkapoor.repl.co/) (Greater Good Science Center).
-  8. Use **Contact** to navigate to the Ish Kapoor's [LinkedIn](https://music-app.ishkapoor.repl.co/)profile.
+  8. Use **Contact** to navigate to the Ish Kapoor's [LinkedIn](https://music-app.ishkapoor.repl.co/) profile.
 * Android / iOS App [Available soon on PlayStore & AppStore]
   1. Open the Android / iOS application in your mobile phone / tablet (should have latest Chrome version, WebXR installed).
   3. Use **HOME** to navigate to the home page.
@@ -45,7 +45,11 @@ This is a VR Mediataion platform for those in search of finding peace with life 
   6. Use **Music Player** to navigate to the Music Player page.
   8. Use **About** to navigate to the About page to contact me.
 ## Snippet
-
+![VR session closed screen](/Captures/ezgif.com-gif-maker.gif "VR session closed screen")
+![VR session open screen](/Captures/gif2.gif "VR session open screen")
+![Music Playlist close/open screen](/Captures/gif3.gif "Music Playlist close/open screen")
+![Music Playlist close/open screen](/Captures/Demo5.mp4 "Music Playlist close/open screen")
+![Music Playlist close/open screen](/Captures/gif4.gif "Music Playlist close/open screen")
 ## Project Structure
 ```
 .
