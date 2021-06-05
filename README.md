@@ -44,6 +44,8 @@ This is a VR Mediataion platform for those in search of finding peace with life 
   4. Use **VR Sessions** to navigate to the VR Sessions page.
   6. Use **Music Player** to navigate to the Music Player page.
   8. Use **About** to navigate to the About page to contact me.
+## Snippet
+
 ## Project Structure
 ```
 .
