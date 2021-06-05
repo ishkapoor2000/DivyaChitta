@@ -48,7 +48,7 @@ This is a VR Mediataion platform for those in search of finding peace with life 
 ![VR session closed screen](/Captures/ezgif.com-gif-maker.gif "VR session closed screen")
 ![VR session open screen](/Captures/gif2.gif "VR session open screen")
 ![Music Playlist close/open screen](/Captures/gif3.gif "Music Playlist close/open screen")
-![](/Captures/Demo5.mp4 "")
+<video width="250" autoplay mute loop src="/Captures/Demo5.mp4" type="video/mp4"></video>
 ![Happy Music Playlist screen](/Captures/gif4.gif "Happy Music Playlist screen")
 ## Project Structure
 ```
