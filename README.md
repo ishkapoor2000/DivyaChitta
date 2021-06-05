@@ -3,7 +3,7 @@ This is a VR Mediataion platform for those in search of finding peace with life 
 
 ## Installation
 * Fork this repository and you are good to go.
-* Other ways of installing this:
+<!-- * Other ways of installing this:
   * Go to the following links, fork them and download them [Make sure to crete an account on replit.com]:
     * https://replit.com/@IshKapoor/Divya-Chitta#index.html
     * https://replit.com/@IshKapoor/Music-App#index.html
@@ -17,7 +17,7 @@ This is a VR Mediataion platform for those in search of finding peace with life 
     * https://replit.com/@IshKapoor/VR-Realm
     * https://replit.com/@IshKapoor/VR-Tree
     * https://replit.com/@IshKapoor/My-Space-VR#index.html
-    * https://replit.com/@IshKapoor/Floating-Soul-VR#index.html
+    * https://replit.com/@IshKapoor/Floating-Soul-VR#index.html -->
 ## Usage
 * Mobile Web
   1. Open the web application in your browser (latest Chrome versions recommended).
