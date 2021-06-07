@@ -18,6 +18,12 @@ This is a VR Mediataion platform for those in search of finding peace with life 
     * https://replit.com/@IshKapoor/VR-Tree
     * https://replit.com/@IshKapoor/My-Space-VR#index.html
     * https://replit.com/@IshKapoor/Floating-Soul-VR#index.html -->
+## Snippet
+![VR session closed screen](/Captures/ezgif.com-gif-maker.gif "VR session closed screen")
+![VR session open screen](/Captures/gif2.gif "VR session open screen")
+![Music Playlist close/open screen](/Captures/gif3.gif "Music Playlist close/open screen")
+<video width="250" autoplay mute loop src="/Captures/Demo5.mp4" type="video/mp4"></video>
+![Happy Music Playlist screen](/Captures/gif4.gif "Happy Music Playlist screen")
 ## Usage
 * Mobile Web
   1. Open the web application in your browser (latest Chrome versions recommended).
@@ -44,12 +50,6 @@ This is a VR Mediataion platform for those in search of finding peace with life 
   4. Use **VR Sessions** to navigate to the VR Sessions page.
   6. Use **Music Player** to navigate to the Music Player page.
   8. Use **About** to navigate to the About page to contact me.
-## Snippet
-![VR session closed screen](/Captures/ezgif.com-gif-maker.gif "VR session closed screen")
-![VR session open screen](/Captures/gif2.gif "VR session open screen")
-![Music Playlist close/open screen](/Captures/gif3.gif "Music Playlist close/open screen")
-<video width="250" autoplay mute loop src="/Captures/Demo5.mp4" type="video/mp4"></video>
-![Happy Music Playlist screen](/Captures/gif4.gif "Happy Music Playlist screen")
 ## Project Structure
 ```
 .
