@@ -22,7 +22,7 @@ This is a VR Mediataion platform for those in search of finding peace with life 
 * Mobile Web
   1. Open the web application in your browser (latest Chrome versions recommended).
   2. Make sure to have WebXR support in your device.
-  3. Follow the humburger `三` icon.
+  3. Follow the hamburger `三` icon.
   4. Use **VR** to navigate to the home page.
   5. Use **Start Session** to navigate to the [VR Sessions page](https://vr-sessions.ishkapoor.repl.co/).
   6. Use **Recommended Music** to navigate to the [Music Recommendation System](https://share.streamlit.io/kuwarkapur/webapp/main/webapp.py).
