@@ -1,6 +1,6 @@
 # DIVYA CHITTA
 <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
-This is a VR Mediataion platform for those in search of finding peace with life and within. This project has all the features that let's you meditate properly in VR mode. Combining technology, psychology and spirituality; Divya Chitta is the best platform for meditation🧘‍♂️ and relaxing. 
+This is a VR Mediation platform for those in search of finding peace with life and within. This project has all the features that let you meditate properly in VR mode. Combining technology, psychology, and spirituality; Divya Chitta is the best platform for meditation 🧘‍♂️ and relaxing.
 
 ## Installation
 * Fork this repository and you are good to go.
