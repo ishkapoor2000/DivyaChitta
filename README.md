@@ -52,6 +52,9 @@ This is a VR Mediation platform for those in search of finding peace with life a
   6. Use **Music Player** to navigate to the Music Player page.
   8. Use **About** to navigate to the About page to contact me.
 ## Project Structure
+<details>
+<summary>Project Structure</summary>
+
 ```
 .
 |   output.doc
@@ -314,6 +317,9 @@ This is a VR Mediation platform for those in search of finding peace with life a
             webapp.ipynb
             webapp.py
 ```
+</details>
+
+
 ## Contributing
 - Fork it!
 - Create your feature branch: `git checkout -b my-new-feature`
