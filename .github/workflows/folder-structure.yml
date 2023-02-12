@@ -1,0 +1,25 @@
+# .github/workflows/folder-structure.yml
+
+name: Create Folder Structure
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  create-folder-structure:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Create Folder Structure
+      run: tree /f /a > folder_structure.md
+
+    - name: Commit Changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Updated folder structure of repository"
+        add: "folder_structure.md"
